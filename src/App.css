@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.div-img {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.div-img img {
+  width: 100px;
+  height: 60px;
+  object-fit: contain;
+}
